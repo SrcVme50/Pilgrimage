@@ -1,3 +1,3 @@
 # Pilgrimage
 
-code by harusaruhi
+code from harusaruhi
